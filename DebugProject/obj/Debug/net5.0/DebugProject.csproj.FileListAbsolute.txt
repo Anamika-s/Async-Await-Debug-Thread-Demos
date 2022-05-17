@@ -1,0 +1,16 @@
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.exe
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.deps.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.runtimeconfig.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\ref\DebugProject.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\bin\Debug\net5.0\DebugProject.pdb
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\ref\DebugProject.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.pdb
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\DebugProject\obj\Debug\net5.0\DebugProject.genruntimeconfig.cache

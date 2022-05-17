@@ -1,0 +1,16 @@
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.exe
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.deps.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.runtimeconfig.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\ref\TheadDEmos.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\bin\Debug\net5.0\TheadDEmos.pdb
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\ref\TheadDEmos.dll
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.pdb
+C:\Users\Anamika\source\repos\AsyncAwaitDemo\TheadDEmos\obj\Debug\net5.0\TheadDEmos.genruntimeconfig.cache
